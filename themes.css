@@ -26,4 +26,23 @@ h2 {
 
 p {
   text-indent:2em;
+  line-height:1.4em;
+  text-align:justify;
+}
+
+img
+{
+  border-radius:10px;
+  box-shadow:0px 0px 20px 0px #666;
+}
+.pic img
+{
+  display:block;
+  margin:1em auto;
+}
+footer p,
+.pic p
+{
+  font-size:0.8em;
+  text-align:center;
 }

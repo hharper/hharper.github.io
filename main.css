@@ -11,3 +11,27 @@ text-decoration: inherit;
 background-color: transparent;
 box-sizing: border-box;
 }
+
+html{
+  height: 100%;
+}
+
+body{
+  min-height: 100%;
+  background-color: pink;
+  color: white;
+  margin:0 auto;
+  padding:1em;
+  font-family: "Georgia";
+  font-size: 16px;
+}
+
+main
+{
+  padding:1em 0;
+  margin: 1em 0;
+}
+p
+{
+  margin-bottom:1em;
+}
